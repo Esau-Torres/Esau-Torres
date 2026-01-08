@@ -48,3 +48,9 @@
     </div>
   </div>
 </div>
+
+### :zap: actividad reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
