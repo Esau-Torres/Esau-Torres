@@ -1,17 +1,23 @@
-<img align="right" height="700" width ="300" src="https://i.pinimg.com/originals/8f/79/01/8f7901e35f159be3521b1a4a04912628.gif"  />
-
-###
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/8f/79/01/8f7901e35f159be3521b1a4a04912628.gif"  />
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+   <a href="mailto:davidesau140@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/esa%C3%BA-torres-516b10306">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://esau-torres-portafolio.vercel.app/" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=My_Web_Site&logo=github&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Esaú-Torres.Esaú-Torres&"  />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Esau-Torres&labelColor=%232d2f31&countColor=%2374818D&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Esau-Torres" height="40px" />
 </div>
 
 ###
@@ -115,24 +121,36 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esaú-Torres&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Esaú-Torres&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esau-Torres&theme=dracula&hide_border=true&show_icons=true" width="100%" />
 </div>
 
-###
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esaú-Torres/Esaú-Torres/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Esaú-Torres/Esaú-Torres/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Esaú-Torres/Esaú-Torres/output/pacman-contribution-graph.svg">
-</picture>
+<div align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Esau-Torres&langs_count=8&theme=dracula&hide_border=true&layout=compact" />
+  
+  <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=Esau-Torres&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+</div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esaú-Torres&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esaú-Torres&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img width="100%" src="https://streak-stats.demolab.com?user=Esau-Torres&theme=dracula&hide_border=true" />
 </div>
+
+<br/>
+
+<h3 align="center">🕹️ Contribution Graph</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esau-Torres/Esau-Torres/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Esau-Torres/Esau-Torres/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Esau-Torres/Esau-Torres/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+###
 
 ###
 
