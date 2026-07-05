@@ -16,22 +16,23 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # 1. Clonar el repositorio completo 
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generar el SVG
+      # 2. Generar la animación de Pacman
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Preparar carpeta dist
+      # 3. Crear la carpeta 'dist' y mover TODOS los SVG que generó la acción
       - name: Prepare artifact directory
         run: |
           mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
+          mv pacman-contribution-graph*.svg dist/
 
-      # Subir a la rama output (v4 evita problemas de Node)
+      # 4. Subir el contenido de 'dist' a la rama output
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
