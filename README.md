@@ -150,6 +150,10 @@
   </picture>
 </div>
 
+###
+
+###
+
 ### :zap: actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
