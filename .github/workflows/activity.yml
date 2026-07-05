@@ -3,7 +3,7 @@ name: Update README Activity
 on:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Te permite ejecutarlo manualmente desde GitHub si quieres probarlo ya
+  workflow_dispatch: # Te permite ejecutarlo manualmente desde la pestaña Actions de GitHub
 
 jobs:
   build:
@@ -11,10 +11,11 @@ jobs:
     name: Update Profile README
 
     steps:
+      # 1. Clonar tu repositorio para poder editar el README
       - name: Checkout Repository
         uses: actions/checkout@v4
       
-      # Esta acción es mucho más estable y no exige archivos .config.yml externos
+      # 2. Buscar tu actividad de GitHub e inyectarla en el README
       - name: Update Recent Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
