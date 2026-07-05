@@ -1,0 +1,21 @@
+name: Update README Activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Te permite ejecutarlo manualmente desde GitHub si quieres probarlo ya
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      # Esta acción es mucho más estable y no exige archivos .config.yml externos
+      - name: Update Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
