@@ -1,32 +1,17 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/8f/79/01/8f7901e35f159be3521b1a4a04912628.gif"  />
-</div>
+<div align="center"> <img src="Lockey.jpg"  width="100%" alt="banner de presentacion"> </div>
+<br/>
 
-<div align="center">
-   <a href="mailto:davidesau140@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/esa%C3%BA-torres-516b10306">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://esau-torres-portafolio.vercel.app/" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=My_Web_Site&logo=github&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Esau-Torres&labelColor=%232d2f31&countColor=%2374818D&labelStyle=upper&label=Visitantes" alt="Contador de Visitas" height="30" align="right" />
+  <a href="mailto:davidesau140@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" align="left" /></a>
+  <a href="https://www.linkedin.com/in/esa%C3%BA-torres-516b10306" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" align="left" /></a>
+  <a href="https://esau-torres-portafolio.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=My_Web_Site&logo=github&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" align="left" /></a>
+</p>
+<br />
 
 ###
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Esau-Torres&labelColor=%232d2f31&countColor=%2374818D&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Esau-Torres" height="40px" />
-</div>
-
-###
-
-<h1 align="center">Hola, soy Esau Torres</h1>
-
-###
-
-<h4 align="center">Full Stack middle | Developer.</h4>
+<h1 align="center">Full Stack middle | Developer.</h1>
 
 ###
 
