@@ -106,38 +106,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esau-Torres&theme=dracula&hide_border=true&show_icons=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="left">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Esau-Torres&langs_count=8&theme=dracula&hide_border=true&layout=compact" />
-  
-  <img width="50%" align="right" src="https://github-stats-extended.vercel.app/api?username=Esau-Torres&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-  
-</div>
-<br/>
-
-<div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=Esau-Torres&theme=dracula&hide_border=true" />
 </div>
 
-<br/>
-
-<h3 align="center">🕹️ Contribution Graph</h3>
+###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esau-Torres/Esau-Torres/output/dist/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Esau-Torres/Esau-Torres/output/dist/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Esau-Torres/Esau-Torres/output/dist/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esau-Torres&theme=dracula&hide_border=true&show_icons=true" width="100%" />
 </div>
 
 ###
 
-###
+<div align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Esau-Torres&langs_count=8&theme=dracula&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Esau-Torres&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+</div>
+
 
 ### :zap: Actividad Reciente
 
