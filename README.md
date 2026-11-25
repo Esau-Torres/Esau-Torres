@@ -124,7 +124,7 @@
 
 ### ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/Esau-Torres/Nexum1400201/issues/25) in [Esau-Torres/Nexum1400201](https://github.com/Esau-Torres/Nexum1400201)
-2. 🔒 Closed issue [#24](https://github.com/Esau-Torres/Nexum1400201/issues/24) in [Esau-Torres/Nexum1400201](https://github.com/Esau-Torres/Nexum1400201)
-3. 🔒 Closed issue [#69](https://github.com/Esau-Torres/Nexum1400201/issues/69) in [Esau-Torres/Nexum1400201](https://github.com/Esau-Torres/Nexum1400201)
+1. 🔓 Reopened issue [#69](https://github.com/Esau-Torres/Nexum1400201/issues/69) in [Esau-Torres/Nexum1400201](https://github.com/Esau-Torres/Nexum1400201)
+2. 🎉 Merged PR [#75](https://github.com/Esau-Torres/Nexum1400201/pull/75) in [Esau-Torres/Nexum1400201](https://github.com/Esau-Torres/Nexum1400201)
+3. 💪 Opened PR [#75](https://github.com/Esau-Torres/Nexum1400201/pull/75) in [Esau-Torres/Nexum1400201](https://github.com/Esau-Torres/Nexum1400201)
 <!--END_SECTION:activity-->
